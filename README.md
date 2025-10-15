@@ -13,8 +13,7 @@ A beautifully designed Flutter application that fetches and displays random user
 
 <!-- Add your app screenshots here -->
 |   | Home Screen | Profile Detail Screen |
-|---|--![Homepage.png](screenshorts/Homepage.png)-----|-----![Profilepage.png](screenshorts/Profilepage.png)------|
-|   | Grid layout with user cards | Large profile with details |
+|---|![Homepage.png](screenshorts/Homepage.png)|![Profilepage.png](screenshorts/Profilepage.png)|
 
 ---
 
